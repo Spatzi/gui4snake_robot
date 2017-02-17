@@ -1,0 +1,138 @@
+<parameters>
+	<gait id="Rolling">
+		<joint>
+			<freq_robot> 2 </freq_robot>
+			<amp_robot> 10 </amp_robot>
+			<phase_o_robot> 0 </phase_o_robot>
+			<phase_e_robot> 157 </phase_e_robot>
+		</joint>
+	</gait>
+
+	<gait id="Forward">
+		<joint>
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_o_robot> 0 </phase_o_robot>
+			<phase_e_robot> 0 </phase_e_robot>
+		</joint>
+	</gait>
+
+	<gait id="Reset">
+		<joint>
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_o_robot> 0 </phase_o_robot>
+			<phase_e_robot> 0 </phase_e_robot>
+		</joint>
+	</gait>
+
+	<gait id="Hold">
+		<joint>
+			<freq_robot> 0 </freq_robot>
+		</joint>
+	</gait>
+
+	<gait id="Individual Control">
+		<joint id="1">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_o_robot> 0 </phase_o_robot>
+		</joint>
+		<joint id="2">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_e_robot> 0 </phase_e_robot>
+		</joint>
+		<joint id="3">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_o_robot> 0 </phase_o_robot>
+		</joint>
+		<joint id="4">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_e_robot> 0 </phase_e_robot>
+		</joint>
+		<joint id="5">
+			<freq_robot> 2 </freq_robot>
+			<amp_robot> 20 </amp_robot>
+			<phase_o_robot> 0 </phase_o_robot>
+		</joint>
+		<joint id="6">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_e_robot> 0 </phase_e_robot>
+		</joint>
+		<joint id="7">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_o_robot> 0 </phase_o_robot>
+		</joint>
+		<joint id="8">
+			<freq_robot> 1 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_e_robot> 0 </phase_e_robot>
+		</joint>
+		<joint id="9">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_o_robot> 0 </phase_o_robot>
+		</joint>
+		<joint id="10">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_e_robot> 0 </phase_e_robot>
+		</joint>
+		<joint id="11">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_o_robot> 0 </phase_o_robot>
+		</joint>
+		<joint id="12">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_e_robot> 0 </phase_e_robot>
+		</joint>
+		<joint id="13">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_o_robot> 0 </phase_o_robot>
+		</joint>
+		<joint id="14">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_e_robot> 0 </phase_e_robot>
+		</joint>
+		<joint id="15">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_o_robot> 0 </phase_o_robot>
+		</joint>
+		<joint id="16">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_e_robot> 0 </phase_e_robot>
+		</joint>
+		<joint id="17">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_o_robot> 0 </phase_o_robot>
+		</joint>
+		<joint id="18">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_e_robot> 0 </phase_e_robot>
+		</joint>
+		<joint id="19">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_o_robot> 0 </phase_o_robot>
+		</joint>
+		<joint id="20">
+			<freq_robot> 0 </freq_robot>
+			<amp_robot> 0 </amp_robot>
+			<phase_e_robot> 0 </phase_e_robot>
+		</joint>
+	</gait>
+</parameters>
+
